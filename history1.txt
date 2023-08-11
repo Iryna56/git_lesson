@@ -1,0 +1,94 @@
+    1  cd
+    2  ssh-keygen
+    3  cat .ssh/id_rsa.pub
+    4  ssh -i ~/.ssh/id_rsa ec2-user@linux.telran-edu.de
+    5  [200~ssh -i ~/.ssh/id_rsa ec2-user@linux.telran-edu.de~
+    6  cd
+    7  ssh -i ~/.ssh/id_rsa ec2-user@linux.telran-edu.de
+    8  ssh -i ~/.ssh/id_rsa ec2-user@linux.telran-edu.de
+    9   ssh -i ~/.ssh/id_rsa ec2-user@linux.telran-edu.de
+   10  ssh -i ~/.ssh/id_rsa ec2-user@linux.telran-edu.de
+   11  ssh -i ~/.ssh/id_rsa ec2-user@linux.telran-edu.de
+   12  ssh -i ~/.ssh/id_rsa ec2-user@linux.telran-edu.de
+   13  ssh -i ~/.ssh/id_rsa ec2-user@linux.telran-edu.de
+   14  ssh -i ~/.ssh/id_rsa ec2-user@linux.telran-edu.de
+   15  ssh -i ~/.ssh/id_rsa ec2-user@linux.telran-edu.de
+   16  ssh -i ~/.ssh/id_rsa ec2-user@linux.telran-edu.de
+   17  ssh -i ~/.ssh/id_rsa ec2-user@linux.telran-edu.de
+   18  ssh -i ~/.ssh/id_rsa ec2-user@linux.telran-edu.de
+   19  ssh -i ~/.ssh/id_rsa ec2-user@linux.telran-edu.de
+   20  ssh -i ~/.ssh/id_rsa ec2-user@linux.telran-edu.de
+   21  ssh -i ~/.ssh/id_rsa ec2-user@linux.telran-edu.de
+   22  ssh -i ~/.ssh/id_rsa ec2-user@linux.telran-edu.de
+   23  git config --global -l
+   24  git config --global -l
+   25  git config --global -l
+   26  git config --global user.name baibak.iryna
+   27  git config --global user.email irabaybak2017@gmail.com
+   28  git config --global -l
+   29  cd
+   30  ls -al
+   31  cd .ssh
+   32  cd .ssh/
+   33  cd .ssh
+   34  cd .ssh
+   35  cd ssh
+   36  cd .ssh
+   37  cat id_rsa.pub 
+   38  git config --global -l
+   39  mkdir git
+   40  cd git/
+   41  git clone git@github.com:Iryna56/git_lesson.git
+   42  ls -al
+   43  cd git_lesson/
+   44  ls -al
+   45  git remote -v
+   46  nano song.txt
+   47  ls -al
+   48  nano song.txt 
+   49  git status
+   50  git add song.txt 
+   51  git status
+   52  git commit -m "Made new file song"
+   53  git log
+   54  git push
+   55  git log
+   56  cd ..
+   57  ls -al
+   58  cd ..
+   59  ls -al
+   60  cd git/
+   61  mkdir Test1
+   62  cd Test1/
+   63  echo "Same text" > File1.txt
+   64  echo "Same text" > File2.txt
+   65  echo "Same text" > File3.txt
+   66  mkdir DIR
+   67  echo "Same text" > DIR/File4.txt
+   68  ls -al
+   69  git init
+   70  ls -al
+   71  git status
+   72  git add .
+   73  git status
+   74  git commit -m "Init new repo"
+   75  git remote -v
+   76  [200~git remote add origin git@github.com:Iryna56/Test11.git
+   77  git remote add origin git@github.com:Iryna56/Test11.git
+   78  git branch -M main
+   79  git push -u origin main
+   80  git remote add origin git@github.com:Iryna56/Test11.git
+   81  git branch -M main
+   82  git status
+   83  git push -u origin main
+   84  git log
+   85  cd ..
+   86  ls -al
+   87  git log
+   88  cd git_lesson/
+   89  git log
+   90  git pull 
+   91  git log
+   92  cat README.md 
+   93  cat README.md 
+   94  history > history1.txt
