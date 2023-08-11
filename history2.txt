@@ -1,0 +1,268 @@
+    1  cd
+    2  ssh-keygen
+    3  cat .ssh/id_rsa.pub
+    4  ssh -i ~/.ssh/id_rsa ec2-user@linux.telran-edu.de
+    5  [200~ssh -i ~/.ssh/id_rsa ec2-user@linux.telran-edu.de~
+    6  cd
+    7  ssh -i ~/.ssh/id_rsa ec2-user@linux.telran-edu.de
+    8  ssh -i ~/.ssh/id_rsa ec2-user@linux.telran-edu.de
+    9   ssh -i ~/.ssh/id_rsa ec2-user@linux.telran-edu.de
+   10  ssh -i ~/.ssh/id_rsa ec2-user@linux.telran-edu.de
+   11  ssh -i ~/.ssh/id_rsa ec2-user@linux.telran-edu.de
+   12  ssh -i ~/.ssh/id_rsa ec2-user@linux.telran-edu.de
+   13  ssh -i ~/.ssh/id_rsa ec2-user@linux.telran-edu.de
+   14  ssh -i ~/.ssh/id_rsa ec2-user@linux.telran-edu.de
+   15  ssh -i ~/.ssh/id_rsa ec2-user@linux.telran-edu.de
+   16  ssh -i ~/.ssh/id_rsa ec2-user@linux.telran-edu.de
+   17  ssh -i ~/.ssh/id_rsa ec2-user@linux.telran-edu.de
+   18  ssh -i ~/.ssh/id_rsa ec2-user@linux.telran-edu.de
+   19  ssh -i ~/.ssh/id_rsa ec2-user@linux.telran-edu.de
+   20  ssh -i ~/.ssh/id_rsa ec2-user@linux.telran-edu.de
+   21  ssh -i ~/.ssh/id_rsa ec2-user@linux.telran-edu.de
+   22  ssh -i ~/.ssh/id_rsa ec2-user@linux.telran-edu.de
+   23  git config --global -l
+   24  git config --global -l
+   25  git config --global -l
+   26  git config --global user.name baibak.iryna
+   27  git config --global user.email irabaybak2017@gmail.com
+   28  git config --global -l
+   29  cd
+   30  ls -al
+   31  cd .ssh
+   32  cd .ssh/
+   33  cd .ssh
+   34  cd .ssh
+   35  cd ssh
+   36  cd .ssh
+   37  cat id_rsa.pub 
+   38  git config --global -l
+   39  mkdir git
+   40  cd git/
+   41  git clone git@github.com:Iryna56/git_lesson.git
+   42  ls -al
+   43  cd git_lesson/
+   44  ls -al
+   45  git remote -v
+   46  nano song.txt
+   47  ls -al
+   48  nano song.txt 
+   49  git status
+   50  git add song.txt 
+   51  git status
+   52  git commit -m "Made new file song"
+   53  git log
+   54  git push
+   55  git log
+   56  cd ..
+   57  ls -al
+   58  cd ..
+   59  ls -al
+   60  cd git/
+   61  mkdir Test1
+   62  cd Test1/
+   63  echo "Same text" > File1.txt
+   64  echo "Same text" > File2.txt
+   65  echo "Same text" > File3.txt
+   66  mkdir DIR
+   67  echo "Same text" > DIR/File4.txt
+   68  ls -al
+   69  git init
+   70  ls -al
+   71  git status
+   72  git add .
+   73  git status
+   74  git commit -m "Init new repo"
+   75  git remote -v
+   76  [200~git remote add origin git@github.com:Iryna56/Test11.git
+   77  git remote add origin git@github.com:Iryna56/Test11.git
+   78  git branch -M main
+   79  git push -u origin main
+   80  git remote add origin git@github.com:Iryna56/Test11.git
+   81  git branch -M main
+   82  git status
+   83  git push -u origin main
+   84  git log
+   85  cd ..
+   86  ls -al
+   87  git log
+   88  cd git_lesson/
+   89  git log
+   90  git pull 
+   91  git log
+   92  cat README.md 
+   93  cat README.md 
+   94  history > history1.txt
+   95  ls -al
+   96  git status
+   97  ls -al
+   98  git status
+   99  cd git_lesson/
+  100  git status
+  101  git add history1.txt 
+  102  git status
+  103  git commit 
+  104  ls -al
+  105  git status
+  106  cd git_lesson/
+  107  git status
+  108  git commit -m
+  109  git commit -m "history"
+  110  git pull
+  111  ды -Д
+  112  ls -al
+  113  nano song.txt 
+  114  git status
+  115  git add .
+  116  git status
+  117  git commit -m "Add 2 lines"
+  118  git status
+  119  git log
+  120  git log
+  121  git push
+  122  nano song.txt 
+  123  cat song.txt 
+  124  git checkout 
+  125  cat song.txt 
+  126  git checkout song.txt
+  127  cat song.txt 
+  128  > file1.log
+  129  > file2.error
+  130  mkdir dir
+  131  > dir/file3.error
+  132  ls -al
+  133  git status
+  134  git clear -xdm 
+  135  git clean -xdm
+  136  git clean -xdn
+  137  git clean -xdf
+  138  ls -al
+  139  joe song.txt 
+  140  nano song.txt 
+  141  joe song.txt 
+  142  nano song1.txt
+  143  ls -al
+  144  git status
+  145  git add .
+  146  git status
+  147  git restore --staged
+  148  git restore --staged song1.txt 
+  149  ls -al
+  150  git status
+  151  git reset song.txt
+  152  git status
+  153  ls -al
+  154  git add song.txt 
+  155  git commit -m "Add bed comm"
+  156  git log
+  157  git commit --amend -m "Add 2 lines in file song"
+  158  git log
+  159  ды -фд
+  160  ls -al
+  161  git add .
+  162  git status
+  163  git commit --amend -m "Edit song and new file song1"
+  164  git log
+  165  nano song.txt 
+  166  git status
+  167  git commit -a -m "Edit song.txt"
+  168  git log
+  169  git reset HEAD~2
+  170  пше ыефегы
+  171  git status
+  172  git log
+  173  cat song.txt 
+  174  nano song.txt 
+  175  git add song.txt 
+  176  git commit -m "BED COMMIT"
+  177  git push
+  178  cat song.txt 
+  179  git status
+  180  git add .
+  181  git push
+  182  git pull
+  183  git push
+  184  git commit -m "bed comm"
+  185  git push
+  186  ls -al
+  187  git status
+  188  git pull
+  189  git push
+  190  git log
+  191  nano song.txt 
+  192  git status
+  193  git add song.txt 
+  194  git commit -m "bed comm"
+  195  git push
+  196  git revert HEAD
+  197  nano song.txt 
+  198  git add song.txt 
+  199  git commit -m "kjckjsc"
+  200  git push
+  201  git revert HEAD
+  202  cat song.txt 
+  203  git log
+  204  git revert HEAD
+  205  nano song.txt 
+  206  git add song.txt 
+  207  git status
+  208  git push
+  209  git commit -m "Bed commit"
+  210  git push
+  211  git revert HEAD
+  212  history
+  213  git log
+  214  cd git_lesson/
+  215  git log
+  216  git reset HEAD^^^^^
+  217  gi log
+  218  git log
+  219  git reset HEAD^^
+  220  git log
+  221  git push --force
+  222  git log
+  223  > file.log
+  224  git status
+  225  nano .gitignore
+  226  git status
+  227  nano .gitignore 
+  228  git status
+  229  nano .gitignore 
+  230  git status
+  231  git add .
+  232  git commit -m "add gitignore"
+  233  git status
+  234  git branch -v
+  235  git branch test1
+  236  git branch -v
+  237  git checkout test1
+  238  git branch -v
+  239  git checkout main
+  240  git branch -v
+  241  git checkout -b
+  242  git checkout -b test
+  243  git branch -v
+  244  пше дщп
+  245  git log
+  246  git branch -v
+  247  git branch -d test1
+  248  git branch -v
+  249  nano Newsong.txt
+  250  git status
+  251  git add .
+  252  git commit -m "Add Newsong"
+  253  git log --oneline
+  254  nano Newsong.txt
+  255  git add .
+  256  git commit -m --oneline
+  257  git log
+  258  git commit -m "Add 2 lines"
+  259  git log --oneline
+  260  git checkout main
+  261  git branch -v
+  262  git checkout test
+  263  git branch -v
+  264  git checkout main
+  265  git merge test
+  266  ls -al
+  267  git log --oneline
+  268  history > history2.txt
